@@ -118,9 +118,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Telegram**: [@YourTelegramHandle](https://t.me/YourTelegramHandle)
-
+- **Email**: sajjadakbari@dr.com
+- **Telegram**: [@seo_i](https://t.me/seo_i)
+- **mywebsite**: [sajjadakbari](https://sajjadakbari.ir)
 ---
 
 Enjoy using the Telegram File Conversion Bot! 🚀
